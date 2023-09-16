@@ -5,4 +5,4 @@
 
 
 <p>🔭 I’m currently working on Naver BoostCamp <br>
-  🌱 I’m currently learning Web FullStack</p>
+  🌱 I’m currently learning Web FullStack (BE)</p>
