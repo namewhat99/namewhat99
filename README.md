@@ -3,8 +3,8 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leegh963)](https://solved.ac/leegh963/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=namewhat99&show_icons=true&theme=radical)
-
-
 <p>🔭 I’m currently working on Naver BoostCamp <br>
   🌱 I’m currently learning Web FullStack (BE)</p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=namewhat99&show_icons=true&theme=radical)
+
