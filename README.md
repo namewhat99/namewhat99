@@ -16,7 +16,7 @@
 <h3> Records </h3>
   <div align=left>
     <ul>
-      <li><a href = "https://velog.io/@leegh963/MySQL-Deadlock-S-lock-L-lock"> MySQL Deadlock 과 Lock 에 대한 고찰</a>
+      <li><a href = "https://velog.io/@leegh963/MySQL-Deadlock-S-lock-L-lock"> MySQL Lock 에 대한 고찰과 Deadlock </a>
       <li><a href = "https://velog.io/@leegh963/HikariCP-Deadlock"> HikariCP Deadlock 과 해결</a>
       <li><a href = "https://velog.io/@leegh963/Transaction-%EA%B3%BC-%EC%98%81%EC%86%8D%EC%84%B1-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-flush"> @Transaction 과 영속성 컨텍스트 , FLUSH</a>
     <ul>
