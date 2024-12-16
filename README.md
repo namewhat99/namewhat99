@@ -13,6 +13,14 @@
     <ul>
   </div>
 
+<h3> Projects </h3>
+  <div align=left>
+    <ul>
+      <li><a href = "https://github.com/What-ToEat/Backend">뭐먹을까? (Spring , JPA , MySQL)</a>
+      <li><a href = "https://github.com/boostcampwm2023/iOS05-Village">Village (NestJS , MySQL)</a>
+    <ul>
+  </div>
+
 <h3> Records </h3>
   <div align=left>
     <ul>
